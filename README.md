@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 -  :dna: I’m currently working as bioinformatician 
-- :whale2: I’m currently learning [Docker](https://github.com/docker)
+- :whale2: I’m currently learning [Docker](https://github.com/docker) & [Quarto](https://github.com/quarto-dev)
 - :test_tube: I'm looking to learn and work on precision medicine projects
 - :muscle::dna::computer: I love to exercise, I would like to develop something between sports, genetics and software
 - 💬 Ask me about anything. The less I know about a topic, the more interested I am.
